@@ -6,7 +6,4 @@
 ### Spatial Analysis: Identifies crime hotspots and geographical distributions.
 ### Crime Status Distribution: Visualizes the distribution of crime statuses.
 ### Victim Demographics: Provides insights into age and gender distributions among crime victims.
-### Technologies Used
-### Python (Pandas, Seaborn, Matplotlib)
-### MySQL
-### Jupyter Notebook
+### Technologies Used : - Python (Pandas, Seaborn, Matplotlib), MySQL, Jupyter Notebook
