@@ -5,7 +5,7 @@
 ### Temporal Analysis: Analyzes crime trends over time, focusing on month and year patterns.
 ### Spatial Analysis: Identifies crime hotspots and geographical distributions.
 ### Crime Status Distribution: Visualizes the distribution of crime statuses.
-###Victim Demographics: Provides insights into age and gender distributions among crime victims.
+### Victim Demographics: Provides insights into age and gender distributions among crime victims.
 ### Technologies Used
 ### Python (Pandas, Seaborn, Matplotlib)
 ### MySQL
